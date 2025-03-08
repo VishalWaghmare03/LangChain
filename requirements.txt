@@ -25,3 +25,6 @@ python-dotenv
 numpy
 scikit-learn 
 
+# Structure-Output
+pydantic
+pydantic[email]
