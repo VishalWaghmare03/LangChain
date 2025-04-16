@@ -28,3 +28,6 @@ scikit-learn
 # Structure-Output
 pydantic
 pydantic[email]
+
+# Document Loader 
+langchain_community
