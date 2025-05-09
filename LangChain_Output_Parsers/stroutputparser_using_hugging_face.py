@@ -6,7 +6,7 @@ from langchain_core.prompts import PromptTemplate
 load_dotenv()
 
 llm = HuggingFaceEndpoint(
-    repo_id='BEE-spoke-data/smol_llama-101M-GQA',
+    repo_id='google/gemma-2-2b-it',
     task="text-generation"
 )
 

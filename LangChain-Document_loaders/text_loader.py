@@ -30,6 +30,31 @@ docs = loader.load()
 print(docs[0].page_content)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 print(docs[0].metadata)
 
 chain = prompt | model | parser

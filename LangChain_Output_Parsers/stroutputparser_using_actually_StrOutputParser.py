@@ -6,7 +6,7 @@ from langchain_core.output_parsers import StrOutputParser
 
 load_dotenv()
 
-model = ChatOpenAI(model="gpt-4o-mini")
+model = ChatOpenAI(model="gpt-4.1-nano")
 
 # 1st prompt --> detailed report
 template1 = PromptTemplate(
@@ -25,6 +25,13 @@ parser = StrOutputParser()
 
 chain = template1 | model | parser | template2 | model | parser
 
-result = chain.invoke({'topic':'black hole'})
+result = chain.invoke({'topic':'Image Generation'})
 
 print(result)
+
+
+
+
+
+
+

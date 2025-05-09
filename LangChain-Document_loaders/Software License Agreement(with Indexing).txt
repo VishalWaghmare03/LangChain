@@ -1,0 +1,356 @@
+﻿
+
+
+
+
+
+
+
+
+
+SOFTWARE LICENSE AGREEMENT
+
+BETWEEN
+
+[Insert Name of LL Client]
+
+AND
+
+[Insert Name of Licensor/Vendor]
+
+Table of Contents
+1.	DEFINITIONS	3
+2.	GRANT OF LICENSE	5
+3.	DELIVERY, INSTALLATION AND ACCEPTANCE	6
+4.	DOCUMENTATION AND TRAINING	7
+5.	LICENSOR REPSENTATIONS, COVENANTS AND WARRANTIES:	8
+6.	SUPPORT AND MAINTENANCE SERVICES	10
+7.	FEES	11
+8.	OWNERSHIP	11
+9.	CONFIDENTIALITY	11
+10.	DATA PROTECTION	12
+11.	INDEMNITY	13
+12.	LIMITATION OF LIABILITY	14
+13.	TERM AND TERMINATION	14
+14.	INTERPRETATION	15
+15.	FORCE MAJEURE	15
+16.	SEVERABILITY	15
+17.	ASSIGNMENT AND DELEGATION	16
+18.	WAIVER	16
+19.	GOVERNING LAWS	16
+20.	ORDER OF PRECEDENCE	16
+21.	ENTIRE AGREEMENT	16
+22.	EXECUTION	17
+
+
+
+
+
+SOFTWARE LICENSE AGREEMENT
+
+This Software License Agreement is made on this ___ day of ___________ 2020 (the “Effective Date”) made by and between 
+
+[Insert Name of LL Client], a company incorporated under the laws of India having its registered office at [Insert Address] (the “Licensee” which expression shall, unless repugnant to the context or meaning thereof, be deemed to mean and include its successors and permitted assigns). 
+
+AND
+
+[Insert name of the entity that is providing the Software], a company/partnership firm/LLP/proprietor in India and having its registered office at [Insert Address],  (the “Licensor” which expression shall, unless repugnant to the context or meaning thereof, be deemed to mean and include its successors and permitted assigns). 
+
+Licensor and Licensee are individually referred to as “Party” and collectively as “Parties”.
+
+WHEREAS, 
+
+    A. Licensee is engaged in the business of [Insert brief description] and desires to obtain a license to [Insert brief description of the software’s use]. 
+
+    B. Licensor represents that (i) it has valid authority to license a proprietary solution called [Insert Name of the Software] which offers [Insert brief description of the software’s use]and (ii) it has the requisite skill, knowledge, experience, expertise, infrastructure trained resources and capability to perform the Maintenance and Support Services (as defined later in this Agreement). 
+
+    C. Based upon the Licensor’s representation, the Licensee agrees to obtain a license to use [Insert Name of the Software] for the Licensee’s internal business use as per the terms of this Agreement. 
+
+In consideration of the mutual covenants and agreements set forth herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereto agree as follows.
+
+1. DEFINITIONS
+
+    a. “Affiliates” shall mean any corporation, association, or other entity that directly or indirectly owns, is owned by, or is under common ownership with either Party, respectively, either currently or during the validity of this Agreement. As used in this definition, the terms "owns", "owned", or "ownership" mean the direct or indirect possession of more than 50% of the voting securities, or equity in such business entity.
+
+    b. “Agreement” shall mean this Agreement in addition to any and all, schedules, attachments, exhibits, amendments to this Agreement.
+
+    c. “Customizations” means any modifications, amendments and/or enhancements to the Software and/or such other services as the Parties may mutually agree upon from time to time involving changes of existing source code or development of standalone code developed by Licensor and integrated in the Software and delivered to the Licensee in accordance with the terms of this Agreement.
+
+    d. “Data” shall mean and include details of [Insert brief description of the nature of data that will be uploaded on the systems using the Software], and other information and which includes any “Confidential Information” of Licensee which is disclosed to and/or uploaded on the Software.
+
+    e. “Documentation” shall mean any accompanying user documents, manuals, materials (whether in a hardcopy or softcopy) provided by the Licensor to the Licensee along with the Software that describes or supports the use of the Software to enable the Licensee’s personnel to use and understand the operations of the Software including technical documentation, if any.
+
+    f. “Enhancements” shall mean any modification, update, upgrade or addition to the Software that, when made or added to the solution or modules currently being used by Licensee, provides minor functionality enhancements but does not change overall utility, functional capability, or application, where such modifications or additions are generally made available by Licensor to all its customers under support and maintenance service. Enhancements are generally denoted by minor version level (e.g., v1.1.0 to v1.1.1) changes, as determined by Licensor.
+
+    g. “Error” shall mean (i) with respect to Software: any failure, or inability of the Software to perform any functions set forth in the Documentation due to any defect in the Software or any non-conformity in the Software as specified under this Agreement or the Documentation by the Licensor; and (ii) with respect to Maintenance and Support Services any non-conformity between the work result and any applicable specification agreed between the Parties, or where no specification exists, professional quality and workmanship. 
+
+    h. “Fixes” shall mean any modification or addition to the Software made by the Licensee thorough the Maintenance and Support Services that, when made or added to the solution or modules currently being used by Licensee, corrects Errors.
+
+    i. “Fees” shall mean the fees payable by Licensee to the Licensor for availing the license to the Software and Maintenance and Support Services provided by Licensor in accordance with the terms of this Agreement and more specifically set out under Annexure IV. 
+
+    j. “Installation Services” the services provided by Licensor to deploy, install the Software on the Installation Site (as defined below). 
+
+    k. “Installation Site” means the site or location designated by Licensee where the Software is to be installed in pursuance of this Agreement and is specified in the Annexure I hereto.
+
+    l. “Intellectual Property” includes, but is not limited to all patents, trademarks, ideas, concepts, creations, discoveries, inventions, know-how, permits, service marks, brands, trade names, trade secrets, proprietary information and knowledge, technology, computer programs, databases, copyrights, licenses, franchises, formulae, designs, data, documents, instruction manuals, records, memoranda, notes, whether or not copyrightable or patentable, or any written or verbal instructions or comments and other confidential information.
+
+    m. “Intellectual Property Rights” means all rights, benefits, title or interest in or to any Intellectual Property, anywhere in the world (whether registered or not and including all applications for the same).
+
+    n. “New Version” shall mean any modification, update, upgrade or addition that, when made or added to Software, provides major functionality enhancements or changes the overall utility, functional capability, or application.  New Versions are generally denoted by major version level (e.g., v1.0 to v1.1 or above) changes, as determined by Licensor.
+  
+    o. “Support and Maintenance Services” shall mean the maintenance services pertaining to the Software provided by Licensor including but not limited to customization, implementation, training or such other services as outlined in the Annexure II.
+
+    p. “Permitted Users” shall mean any employees, contractors, subcontractors, officers, directors of Licensee who are authorized by Licensee to use the Software in accordance with the terms of this Agreement. 
+
+    q. “Software” shall mean [Insert name of the Software] a solution licensed by the Licensor under this Agreement including its Enhancements, Customizations or other software components, created, made available to Licensee pursuant to this Agreement and more specifically set out under the Annexure I. 
+
+2. GRANT OF LICENSE 
+
+    a. Grant of License: 
+In consideration of the Fees payable by Licensee, Licensor hereby grants Licensee and its Affiliates and Licensee hereby accepts a fixed term, exclusive, worldwide, transferable, revocable, non- sublicensable, license to use the Software for its internal business use through the Permitted Users. Unless otherwise agreed under the scope of its Support and Maintenance Services by Licensor, the New Versions of the Software shall be provided by Licensee.
+
+    b. Parties agree, along with the license to use the Software, Licensee shall not be entitled to (i) obtain Customizations, for itself and its Affiliates; (ii) avail and use any Enhancements, updates, adaptations and derivative works made by Licensor without any additional costs; (iii) avail Fixes through Support and Maintenance Services in accordance with the terms of this Agreement; (iv) retain one or more back-up copies of the Software. 
+ 
+3. DELIVERY, INSTALLATION AND ACCEPTANCE
+ 
+    a. Delivery and Installation: 
+
+    i. For the purposes of installation of the Software at Installation Site, Licensor shall notify all the prerequisites for the successful installation of the Software, with precise details and with an adequate timeframe for Licensee to make the required arrangements including the hardware and operating systems as agreed under Annexure I (the “Prerequisites”), before such installation. Licensee shall not be responsible for any delays occurred because of Licensor’s failure to appropriately inform the Prerequisites. 
+
+    ii. Within 10 days from the execution of this Agreement, the Licensor shall deliver to the Licensee the Software in accordance with the terms agreed in Annexure I. 
+
+    iii. The Software and the Customizations shall be delivered by Licensor in a code form and the Licensor shall provide Installation Services at the Installation Site as per the project plan and the timelines specified in Annexure III hereto (the “Project Plan”). 
+
+    iv. In the event of a failure on part of the Licensor to deliver and install the Software according to this Agreement, the Licensee shall be entitled to charge a penalty at the rate of 10%. The Licensee’s decision as to such penalty shall be final and binding.
+
+    b. Acceptance:
+
+    i. Post successful installation of the Software at the Installation Site, the Licensor shall notify Licensee and Licensee shall commence user acceptance testing (“UAT”) of such Software along with such assistance and support as necessary from the Licensor. 
+
+    ii. Such UAT shall be conducted for the purpose of demonstrating that the Software, Customisations and Enhancements performs in accordance with its Documentation and any other criteria and procedures mutually agreed upon by the Parties and as set forth in the Project Plan. Licensee shall be obliged to accept the Software unless it performs in accordance with its Documentation and any other criteria mutually agreed between the Parties and as set forth in the Project Plan. 
+
+    iii. Upon completion of the UAT, Licensee shall inform the non-conformities (if any) in the Software, Customizations or Enhancements (as applicable) and the Licensor shall rectify such non-conformities within the timelines agreed under the Project Plan. Licensee shall not be obliged to accept the Software, Customisations or Enhancements unless it performs in accordance with its Documentation and any other criteria and procedures mutually agreed between the Parties. Upon reporting any non-conformities in the performance of the Software by Licensee, Licensee shall be entitled to withhold acceptance of the Software and payments until the Licensor rectifies such non-conformities.  
+
+    iv. Once the Software has successfully passed the acceptance test, Licensee shall notify the Licensor.
+
+    v. UAT, as specified in this Section 3(b), shall be conducted for each of the Errors/non-conformities reported by Licensee and any Customizations, Enhancements developed or created by the Licensor in accordance with the terms of this Agreement and shall continue until the final acceptance if provided by Licensee. 
+
+    vi. If Licensor fails to successfully install the Software for three (3) consecutive times, Licensee shall be entitled to terminate the Agreement without any liability and obtain refund of any fees paid to Licensor until the date of such termination. 
+
+    c. Go-Live: Only when the the Software or Customisations or Enhancements (if any), are successfully installed on the Installation Site, accepted and is ready for use by Licensee, the term of the license shall commence on the go-live date in accordance with the licensing conditions agreed under this Agreement.  
+
+4. DOCUMENTATION AND TRAINING
+
+    a. Upon delivery of the Software, Licensor shall deliver to Licensee a minimum of five (5) soft copies of Documentation, sufficient to enable Licensee personnel to use and understand installation and operations of the Software. Licensee may translate, abridge and/ or make as many numbers of copies of the Documentation as required for the use of the Software.
+
+    b. Along with the Documentation, Licensor shall also provide the Licensee the training for using the Software in accordance with the Documentation and at such intervals as agreed under the Project Plan. 
+
+5. LICENSOR REPSENTATIONS, COVENANTS AND WARRANTIES:
+
+    a. Warranty Period.  
+
+For a period of 10 years from the date of acceptance of the Software by Licensee (the “Warranty Period”), the Licensor warrants that the Software will substantially conform to the description and specifications of the Software as set forth in the Documentation and Annexure I hereto. 
+
+    b. Representations and Warranties: 
+
+Licensor represents, covenants and warrants that:
+
+    i. it is duly organized and validly existing entity under the laws of the jurisdiction in which it was incorporated or organized; 
+
+    ii. it has all requisite corporate power and authority to execute and deliver this Agreement and perform its obligations under this Agreement;
+
+    iii. it has and shall continue to have full and sufficient right to license, customise, assign, sublicense or grant the Software and the Licensor has no obligations to any third party that shall in any way limit or restrict its ability to license the Software in the manner provided under this Agreement.; 
+
+    iv. The Licensor shall furnish and deliver the Software and perform the services as specified in this Agreement free of all liens, claims, encumbrances and other restrictions. 
+
+    v. Licensee and its Affiliates shall be entitled to use and enjoy the benefit of the Software, Customizations, Enhancements and New Versions provided to Software in accordance with this Agreement. The Software, Customizations, Enhancements and New Versions furnished by the Licensor and/or use of the same by Licensee and its Affiliates will not violate or infringe any Intellectual Property Rights of any third party. Such Software shall not be adversely affected, interrupted or disturbed by the Licensor or any entity asserting a claim under or through the Licensor.
+
+    vi. All Intellectual Property or Intellectual Property Rights owned by the Licensor or which the Licensor is licensed to use are valid and subsisting. All actions (including registration, payment of all registration and renewal fees) required to, maintain the same are in full force and effect.
+ 
+    vii. Licensor shall not subcontract for the design, development, supply, delivery, or installation of any portion of any Software, Customizations, Enhancements and New Versions or services to a third party unless it obtains Licensee’s prior written consent. 
+
+    viii. The Software, Customizations, Enhancements and New Versions (if any) shall during the Warranty Period and thereafter during the Support and Maintenance Services be free from any defects and shall conform to and operate in accordance with the Documentation and such other descriptions and materials as are attached, described and/or provided under this Agreement.
+
+    ix. The Documentation and other materials provided by Licensor shall comprehensively reflect the Software, Customizations and Enhancements provided to Licensee. 
+
+    x. During the Warranty Period, the Licensor shall provide Fixes to the Software, correct and repair any malfunction, defect or non-conformity, which prevents such Software, Customizations and/or Enhancements from performing in accordance with the Documentation at no additional charge to Licensee. 
+
+    xi. The Licensor warrants to Licensee that Enhancements provided under this Agreement shall not degrade, impair or otherwise adversely affect the performance or operation of the Software and/or Customizations.  
+
+    xii. Licensor warrants that any installation, maintenance or other services provided by Licensor shall be performed maintaining industrial standard quality, with professional manner by qualified personnel. The personnel of the Licensor shall at all times observe and comply with Licensee’s security procedures, rules, regulations, policies, working hours and holiday schedules. In performing services at Licensee’s locations, Licensor personnel will ensure minimal disruption to Licensee’s normal business operations.
+
+    xiii. None of the Intellectual Property or Intellectual Property Rights, which are material in the context of this Agreement, owned or enjoyed by the Licensor, or which the Licensor is entitled to license/sublicense, are being infringed nor, so far as the Licensor is aware, is there any infringement or threatened infringement of those Intellectual Property or Intellectual Property Rights licensed or provided to the Licensor by any person. 
+
+    xiv. The Software does not contain and in no event the Licensor shall introduce any feature in the Software including but not limited to a back-door access, harmful code, viruses, worms or similar software which permits the Licensor any unauthorized access into the  Software or the Licensee’s systems or which would disrupt Licensee’s peaceful use of the Software. Licensor shall always obtain a prior written permission form the Licensee to access the Software other than as required for providing Support and Maintenance Services. 
+
+    xv. Licensor represents and warrants that neither the execution and delivery of this Agreement, the consummation of the transactions contemplated hereby, or the fulfillment of or compliance with the terms and conditions of this Agreement, conflict with or result in a breach of or a default under any of the terms, conditions or provisions of any legal restriction (including, without limitation, any judgment, order, injunction, decree or ruling of any court or governmental authority, or any federal, state, local or other law, statute, rule or regulation) or any covenant or agreement or instrument to which it is a party, or by which Licensor or any of the property of Licensor is bound, nor does such execution, delivery, consummation or compliance violate or result in the violation of its constitutional documents.
+
+    xvi. Licensor shall ensure that adequate controls, including security controls, are established and maintained to ensure the accuracy and security of data and Confidential Information provided by Licensee as well as to ensure the accuracy and security of Support and Maintenance Services to be provided under this Agreement. It shall be its obligation under this Agreement to take all suitable measures acting with prudence, due diligence and utmost care to prevent loss of data or Confidential Information. 
+
+6. SUPPORT AND MAINTENANCE SERVICES
+
+    a. During the Warranty Period, Licensor agrees to provide Licensee with Support and Maintenance Services for the Software licensed hereunder at no charge in accordance with the service levels (“SLAs”) agreed under the Annexure II. Thereafter in consideration of Licensee’s payment of the Fees, as specified in Annexure IV, if, Licensee requests the Licensor in writing, Licensor shall provide annual Support and Maintenance Services to the Licensor in accordance with a separate annual maintenance agreement to be signed between the Parties. 
+
+    b. Licensor represents, warrants and covenants that (i) it shall without any additional cost to Licensee provide Fixes for any Errors that may be reported by Licensee, in accordance with the SLAs, (ii) the Support and Maintenance Services will be performed by Licensor in a professional and workmanlike manner in accordance with the industry standard practices. Licensor agrees that, in the event of any breach of SLAs, Licensee may have a material adverse impact on its business and operations and hence, Licensee shall be entitled to charge, and Licensor shall be entitled to pay liquidated damages at the discretion of Licensee.  
+
+    c. Licensor shall provide Licensee, at an additional cost, with all present and future, Enhancements, which are produced and generally made available by Licensor during the Warranty Period and enable Licensee to continue Licensee’s intended use of the Software. 
+
+    d. The Licensor shall provide revised and/or updated Documentation to correspond to any changes made to Software and/or Customizations, Enhancements, the New Versions within thirty (30) days of such changes.
+
+    e. It is clarified that if the Licensee does not avail or ceases to avail the Support and Maintenance Services from the Licensor in relation to the Software as specified above, Licensee and its Affiliates right to use the Software hereunder shall not be affected in any manner whatsoever. Licensee shall be free to avail of maintenance services in relation to the Software from any person at any time at its sole discretion and without payment of any charges / fees to the Licensor. Moreover, Licensor agrees that, in the event Licensee desires to again obtain the Support and Maintenance Services from Licensor, Licensor shall be obligated to provide such service at the same rates as agreed under this Agreement. 
+
+    f. Licensor agrees that its Support and Maintenance Services shall also consist of an expert support from the Licensor to supervise and front-end on behalf of Licensee, the audit conducted by any third-party software provider (which is required for the functioning and use of the Software) and ensure that Licensee’s interests are protected thereto.
+  
+    g. Licensor agrees that Licensee may require Customizations to the Software any time before or after the go-live stage. Thus, Licensor shall continue to provide such Customizations during the Warranty Period at no additional costs.
+
+    h. Licensor agrees that Licensee may not choose to upgrade the Software to the New Version introduced in the market. In such a case Licensor agrees to continue to provide Support and Maintenance Services to Licensee for the version of the Software that Licensee is utilizing. 
+
+7. OWNERSHIP
+
+    a. The Licensor agrees that Licensee shall retain all the Intellectual Property Rights in the Data, Confidential Infromation and Customizations and the Licensor shall take all essential steps including but not limited to execution of any agreement, documents, deeds, writings, filings or application form(s) for securing all required registrations, licenses and rights in relation to the Customizations in favor of Licensee.
+
+8. CONFIDENTIALITY
+
+a. “Confidential Information” shall mean information disclosed by one Party to the other and which includes, without limitation the Software, Documentation, financial, business, technical and marketing information, business plans, methods, processes, inventions, techniques, designs, data, know-how, ideas, concepts, strategies, trade secrets, software product and services and any such other information. Confidential Information does not include information which: a) is in the public domain; (b) was known to the Party of such disclosure or becomes known to the Party without breach of any confidentiality agreement; (c) is independently developed by either Party without violating any confidentiality obligations stated herein; (d) is disclosed pursuant judicial order or requirement of the governmental agency or by operation of law.
+
+b. The receiving Party shall keep Confidential Information and proprietary information and data received from the disclosing Party in strict confidence and shall not disclose it to any third parties except to a limited group of receiving Party’s directors, officers, agents, authorized representatives on a need-to-know basis. Each Party will use the same degree of care and discretion (but in any event no less than a reasonable degree of care and discretion) to avoid unauthorized disclosure or use of the other Party’s Confidential Information as that receiving Party uses to protect its own information of a similar nature from unauthorized disclosure or use.
+
+c. Upon request by the disclosing Party, the receiving Party shall immediately return to the disclosing Party, all Confidential Information disclosed by the disclosing Party and all copies thereof. All such information shall be and shall remain the sole property of the disclosing Party.
+
+d. The confidentiality obligations stated herein shall survive for a period of five (5) years from the date of termination or expiration of this Agreement.
+
+
+9. DATA PROTECTION
+
+a. Licensor acknowledges that pursuant to this Agreement, Licensor will receive Data and Confidential Information of Licensee, and Licensor shall only use it as strictly necessary for the performance of its obligations hereunder, and not process it in any way contrary to any applicable data protection legislation and comply with applicable data protection laws, data usage, protection and preservation policies and norms of Licensee in relation to any such Data and Confidential Information.
+
+b. Licensor undertakes that upon expiry or termination of this Agreement for any reason it will immediately return or, at Licensee's option, destroy any Data and Confidential Information of Licensee held by it or its personnel.
+
+c. Licensor shall implement strict and adequate security, technical and organizational procedures and controls to secure the integrity and confidentiality of the Data and Confidential Information whilst in its possession or residing on the Software to ensure that the Data and Confidential Information will not be recorded, disclosed, processed, deleted, altered, used or otherwise tampered with in an unauthorized, unlawful or accidental manner and ensure level of security appropriate to the harm that might result from unauthorised or unlawful access/handling or accidental loss, destruction or damage to the Data and Confidential Information;  and to protect the Data and Confidential Information in accordance with the relevant data protection legislation. 
+
+d. Any event that leads to the breach or potential breach of Data and Confidential Information and breach of the provisions of this clause shall be immediately notified by Licensor to Licensee in writing.
+
+10. INDEMNITY
+
+a. The Licensor shall, at its own cost and expense, indemnify, defend, and hold Licensee and its Affiliates, their shareholders, officers, directors, employees, agents, representatives, successors, and assigns harmless from and against any and all losses, liabilities, claims, actions, costs and expenses, including reasonable attorneys' fees and court costs, relating to, resulting from or in any way arising out of: -
+
+    i. Breach of any of its representations, covenants or warranties contained herein; or  
+
+    ii. Any claims related to Licensor’s failure to obtain, maintain and comply with required consents and applicable laws; or
+
+    iii. Any claims against Licensee for taxes, assessments, or penalties which are the responsibility of the Licensor; or
+
+    iv. any actual or alleged infringement of any Intellectual Property Rights based upon the Software and/or Enhancements furnished hereunder by Licensor or based on Licensee’s or its Affiliate’s use thereof.
+
+b. If the Software and/or Enhancement is subject of any such claim or action, or in Licensor’s opinion is likely to become, the subject of any such claim or action, then, Licensor, at its own expense and at Licensee’s sole discretion perform the following actions: 
+
+    i. Procure for Licensee and its Affiliates the right to continue using the Software as contemplated hereunder; or 
+
+    ii. Modify the Software to render the Software non-infringing (provided such modification does not adversely affect Licensee’s or its Affiliate’s use as contemplated hereunder); or
+
+    iii. Terminate this Agreement and Licensor should forthwith refund the Fees paid by Licensee to the Licensor hereunder.
+
+c. The provisions of this Section shall survive the termination of this Agreement.
+
+11. LIMITATION OF LIABILITY
+
+NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR ANY INDIRECT, CONSEQUENTIAL, INCIDENTAL, EXEMPLARY OR SPECIAL DAMAGES, HOWSOEVER CAUSE IN CONNECTION WITH THIS AGREEMENT EVEN IF THE OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THE MAXIMUM AGGREGATE LIABLITY OF LICENSEE UNDER THIS AGRREMENT SHALL BE LIMITED TO THE UNDISPUTED FEES DUE AND PAYABLE BY LICENSEE TO THE LICENSOR UPTO THE DATE OF THE CLIAM UNDER THIS AGREEMENT UNDER WHICH SUCH CLAIM ARISES. 
+
+12. TERM AND TERMINATION
+
+    a. The term of this Agreement shall commence on the Effective Date and shall remain in force for a period of 2 years unless terminated earlier/until terminated as per this Section 13. 
+
+    b. Termination by Licensee: Licensee may terminate this Agreement (i) without cause, by giving a prior written notice of sixty (60) days to the Licensor (ii) in the event that the Licensor is in default of any of its material obligations hereunder and such default is not remedied within thirty (30) days of receipt of written notice thereof.
+ 
+    c. Termination by Licensor: If Licensee has failed, to pay any undisputed Fees which are due and payable under this Agreement for a period greater than or equal to fifty-five (55) days including for the avoidance of doubt where such failure to pay results from any wrongful failure by Licensee to approve any invoice or take any other administrative step which is a precondition to payment to Licensor; Licensor may give a written notice to Licensee requiring payment of such undisputed Fees. If Licensee fails to pay such undisputed Fess within thirty (30) days after receipt of Licensor's written notice thereof, then Licensor may give a further written notice to Licensee of such failure and if Licensee has failed to pay the outstanding undisputed Fees within fifteen (15) days of such notice, Licensor may by a further written notice to Licensee terminate this Agreement with effect from the date written thereof.
+
+    d. Either Party may terminate this Agreement immediately with a written notice to the other Party if the other Party is adjudicated bankrupt or becomes insolvent, makes any assignment for the benefit of creditors, proceedings are instituted by the other Party seeking relief, reorganization or rearrangement under any laws relating to insolvency, bankruptcy or similar laws of any jurisdiction, a receiver, liquidator or trustee is appointed in respect of any property or assets of the other Party or an order is made for the liquidation, dissolution or winding up of the other Party.
+ 
+    e. Effect of Termination: Upon the expiry or any termination of the Agreement, the Licensor shall allow Licensee to continue to use the Software for a minimum period of one year or such other duration as may be required by the Licensee and the Licensor shall also provide transition services and assist Licensee to migrate its data on the Licensee’s systems or a third-party software availed by Licensee without any additional costs. 
+
+13. ADVERTISING OR PUBLICITY
+
+Licensor shall not use the name or marks, refer to or identify of Licensee in advertising or publicity releases, promotional or marketing correspondence to others without first securing the written consent of Licensee.
+
+14. INTERPRETATION
+
+This Agreement will in all events be construed as a whole, according to its fair meaning, and not strictly for or against a Party merely because that Party (or the Party's legal representative) drafted the Agreement. The headings, titles, and captions contained in this Agreement are merely for reference and do not define, limit, extend, or describe the scope of this Agreement or any provision herein. Unless the context requires otherwise, (a) the gender (or lack of gender) of all words used in this Agreement includes the masculine, feminine, and neuter, and (b) the word "including" means "including, without limitation”.
+
+15. FORCE MAJEURE
+
+Neither Party shall be liable to the other for any loss or damage resulting from any cause beyond its reasonable control (a "Force Majeure Event") including, but not limited to, insurrection or civil disorder, riot, war or military operations, national or local emergency, acts or directives of government or other competent authority, compliance with any statutory obligation or executive order,, any Act of God, fire, lightning, explosion, flood, earthquake,  epidemics,  or other similar force beyond such Party's reasonable control. Upon occurrence of a Force Majeure Event and to the extent such occurrence interferes with either party's performance of this Agreement, such party shall be excused from performance of its obligations during the first three months of such interference, provided that such party uses best efforts to avoid or remove such causes of non-performance as soon as possible. In the event such suspension of obligations by an affected party under Force Majeure Event exceeds a period of six (6) months consecutively, other Party may elect to terminate this Agreement without any obligation to penalty or damages.
+
+16. SEVERABILITY
+
+If any provision of this Agreement is determined to be invalid, illegal or unenforceable in any respect, including because of the duration thereof, the area covered thereby, or the types of activities restricted thereby, by a court of competent jurisdiction (i) the validity, legality or enforceability of the remaining provisions contained herein shall not in any way be affected or impaired thereby, and (ii) the court of competent jurisdiction making such determination shall have the power to reduce the duration and/or area of such provisions or types of activities restricted and/or to delete specific words or phrases and in its reduced form such provision shall then be enforceable. The Parties may acting in good faith adopt any and all actions required to cause such invalid, illegal and unenforceable provision to be valid and enforceable, or, alternatively, to reach an agreement in relation to said null provision whereby each of the Party receives, as far as possible, substantially the same benefits and obligations based on valid provisions, provided that the Agreement is not enforced in a form that materially affects the commercial agreement between the Parties.
+
+
+17. WAIVER
+
+Failure to exercise, or any delay in exercising, any right or remedy provided under this Agreement shall not constitute a waiver of that or any other right or remedy, nor shall it preclude or restrict any further exercise of that or any other right or remedy. Any single or partial exercise of any right or remedy provided under this agreement or by law will preclude or restrict the further exercise of that or any other right or remedy.
+
+18. GOVERNING LAWS
+
+This Agreement and all rights and obligations under this Agreement shall in all respects be governed by and construed and enforced in accordance with the laws of the United Kingdom and the courts of Westminster London shall have an exclusive jurisdiction to adjudicate any subject matter under this Agreement. 
+
+19. ORDER OF PRECEDENCE 
+
+If there is any conflict between the terms and conditions of the main body of this Agreement and the Annexures, then the terms and conditions of the main body of this Agreement will govern, except to the extent that the Annexure expressly states that it modifies any specified provisions in the main body of this Agreement, in which case such modified provisions will control. 
+
+20. ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between the Parties and supersedes any prior understanding or representation of any kind preceding the date of this Agreement, and may be amended, supplemented, varied or otherwise changed with the consent of both parties. There are no other promises, conditions, understandings or other agreements, whether oral or written, relating to the subject matter of this Agreement. Each Party acknowledges that, in entering into this Agreement, it has not relied on, and shall have no right or remedy in respect of, any statement, representation, assurance or warranty other than as expressly set out in this Agreement. This Agreement may be modified in writing specifically referencing this Agreement and any such modifications must be signed by both the Parties. Standard terms and conditions of a purchase order or an invoice or any similar document whether hosted on Party’s website or otherwise shall be ineffective.
+
+21. EXECUTION
+Each Agreement may be executed in one or more counterparts (including scanned copies), all of which when signed and taken together constitute a single agreement between the Parties.
+
+IN WITNESS WHEREOF the Parties have executed this Agreement on the Effective Date.
+
+For Licensor
+For Licensee
+Signature
+
+
+Signature
+Name
+Name
+Title
+Title
+Annexure I
+SOFTWARE DETAILS
+
+    1. Description of Software
+
+
+
+    2. Details of Customizations
+
+
+
+
+    3. Delivery Details
+
+
+
+
+    4. Installation Site
+
+
+
+Annexure II –SUPPORT AND MAINTENANCE SERVICES
+
+    1. Description of Support and Maintenance Services
+
+
+    2. Service Level Agreements
+    3. 
+
+Annexure III - PROJECT PLAN
+
+
+
+Annexure IV - FEES
+    1. Software License Fees
+
+
+    2. Support and Maintenance Services Fees
